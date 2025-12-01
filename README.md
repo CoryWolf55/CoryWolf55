@@ -16,6 +16,6 @@ C#, Python, JavaScript/TypeScript, ASP.NET, React, SQL, REST APIs, Git, Dapper, 
 ## 📫 Contact
 
 **Email:** Corywolf333@gmail.com
-**LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+**LinkedIn:** https://www.linkedin.com/in/cory-wolf-64b441231/
 
 > Open to **internships and collaboration**.
