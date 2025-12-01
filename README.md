@@ -9,7 +9,7 @@ Passionate about backend systems, automation, and creating solutions that solve 
 
 ## 🛠 Skills
 
-C#, Python, JavaScript/TypeScript, ASP.NET, React, SQL, REST APIs, Git, Dapper, Authentication
+C#, Python, Java, JavaScript, ASP.NET, React, SQL, REST APIs, Git, Dapper, Authentication
 
 ---
 
