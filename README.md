@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Cory 👋
 
-<!--
-**CoryWolf55/CoryWolf55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer | Sophomore | Full-Stack Developer**
 
-Here are some ideas to get you started:
+I build **real-world applications** using **C#, ASP.NET, React, SQL, and cloud tools**.  
+Passionate about backend systems, automation, and creating solutions that solve real problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Skills
+
+C#, Python, JavaScript/TypeScript, ASP.NET, React, SQL, REST APIs, Git, Dapper, Authentication
+
+---
+
+## 📫 Contact
+
+**Email:** Corywolf333@gmail.com
+**LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+
+> Open to **internships and collaboration**.
