@@ -1,6 +1,6 @@
 # Hi, I'm Cory 👋
 
-** Sophomore | Full-Stack Developer**
+**Sophomore | Full-Stack Developer**
 
 I build **real-world applications** using **C#, ASP.NET, React, SQL, and cloud tools**.  
 Passionate about backend systems, automation, and creating solutions that solve real problems.
