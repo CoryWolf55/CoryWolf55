@@ -18,6 +18,6 @@ C#, Python, Java, JavaScript, ASP.NET, React, SQL, REST APIs, Git, Dapper, Authe
 **Email:** Corywolf333@gmail.com
 **LinkedIn:** https://www.linkedin.com/in/cory-wolf-64b441231/
 
-[![DevMetric Badge](https://devmetric.fly.dev/badge/corywolf55.svg?t=1770668794661)](https://www.devmetric.app/user/corywolf55)
-
 > Open to **internships and collaboration**.
+>
+> [![DevMetric Badge](https://devmetric.fly.dev/badge/corywolf55.svg?t=1770668794661)](https://www.devmetric.app/user/corywolf55)
