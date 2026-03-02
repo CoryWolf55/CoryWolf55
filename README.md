@@ -7,6 +7,9 @@ Passionate about backend systems, data-driven products, and building things peop
 
 ---
 
+[![DevMetric Badge](https://devmetric.fly.dev/badge/corywolf55.svg?t=1770668794661)](https://www.devmetric.app/user/corywolf55)
+
+
 ## 🚀 Featured Project
 
 ### [DevMetric](https://devmetric.app) — Developer Analytics & Ranking Platform
@@ -44,4 +47,3 @@ A full-stack app that scores and ranks developers by analyzing their GitHub acti
 
 > Open to **internships and collaboration**.
 
-[![DevMetric Badge](https://devmetric.fly.dev/badge/corywolf55.svg?t=1770668794661)](https://www.devmetric.app/user/corywolf55)
