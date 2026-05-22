@@ -2,7 +2,7 @@
 
 **Sophomore | Full-Stack Developer**
 
-I build **real-world applications** using **Python, React, FastAPI, MySQL, and cloud infrastructure**.
+I build **real-world applications** using **Python, C#, ASP.NET, React, FastAPI, MySQL, and cloud infrastructure**.
 Passionate about backend systems, data-driven products, and building things people actually use.
 
 ---
