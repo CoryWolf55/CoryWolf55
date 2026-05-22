@@ -7,24 +7,6 @@ Passionate about backend systems, data-driven products, and building things peop
 
 ---
 
-[![DevMetric Badge](https://devmetric.fly.dev/badge/corywolf55.svg?t=1770668794661)](https://www.devmetric.app/user/corywolf55)
-
-
-## 🚀 Featured Project
-
-### [DevMetric](https://devmetric.app) — Developer Analytics & Ranking Platform
-
-A full-stack app that scores and ranks developers by analyzing their GitHub activity across 11 weighted metrics, with percentile rankings within age brackets.
-
-**Built with:** React 19 · FastAPI · MySQL · Redis · GitHub OAuth · Fly.io · Vercel
-
-- Weighted scoring algorithm with age-based percentile ranking
-- GitHub REST & GraphQL API integration
-- Real-time dashboard, leaderboard, and 90-day contribution heatmap
-- Shareable SVG badges, achievement system, and public profiles
-- Background data refresh, rate limiting, and multi-account support
-
----
 
 ## 🛠 Skills
 
