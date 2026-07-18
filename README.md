@@ -13,7 +13,7 @@ Currently:
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CoryWolf55&show_icons=true&theme=github_dark&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=CoryWolf55&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
