@@ -5,7 +5,7 @@
 I build scalable full-stack applications with a focus on backend systems, automation, and developer tools.
 
 Currently:
-- 💼 Software Engineering Intern @ Velera
+- 💼 Software Engineer I @ Velera
 - 🚀 Building production-ready web applications
 - 🌱 Learning distributed systems and cloud infrastructure
 
